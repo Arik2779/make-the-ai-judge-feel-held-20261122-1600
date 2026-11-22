@@ -9,8 +9,8 @@ import os
 
 TEXT = (
     "Her head is heavy on your shoulder, asleep, and you cannot move "
-    "without waking her, so you do not move. The world narrows to the "
-    "rise and fall of her breathing, and to the quiet of a room where "
+    "without waking her, so you do not move. The world narrows to "
+    "her breathing against your collarbone, and to the quiet of a room where "
     "nothing is asked of you. Nothing else is happening. Nothing else "
     "needs to."
 )
